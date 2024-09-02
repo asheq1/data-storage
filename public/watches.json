@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Leather Watch",
+        "price": 199.99
+    },
+    {
+        "id": 2,
+        "name": "Smart Fitness Watch",
+        "price": 149.99
+    },
+    {
+        "id": 3,
+        "name": "Luxury Gold Watch",
+        "price": 499.99
+    },
+    {
+        "id": 4,
+        "name": "Digital Sports Watch",
+        "price": 79.99
+    },
+    {
+        "id": 5,
+        "name": "Elegant Silver Watch",
+        "price": 249.99
+    }
+]
